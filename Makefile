@@ -1,5 +1,5 @@
 OBJ = main.o connect.o escape.o heroes.o flyers.o hollow.o utils.o 
-EXE = a5
+EXE = gamestimulator
 CC = gcc -Wall 
 
 $(EXE):	$(OBJ)
